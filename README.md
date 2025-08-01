@@ -62,11 +62,8 @@ followers_and_following/followers.json
 git clone https://github.com/ganesh76/Insta-Followers-Tracker.git
 cd Insta-Followers-Tracker
 
-# Install required dependencies using:
-
-```bash
+# Install dependencies
 pip install -r requirements.txt
-```
 
 # Run the app
 streamlit run app.py
