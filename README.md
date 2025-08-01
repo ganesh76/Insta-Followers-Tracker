@@ -114,7 +114,7 @@ If you found this useful, consider starring ⭐ the repository.
 ## 📜 License
 
 MIT License  
-© 2025 [Ganesh Gundu](https://github.com/gganeshlink)
+© 2025 [Ganesh Gundu](https://github.com/ganesh76)
 
 ---
 
