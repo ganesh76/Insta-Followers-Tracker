@@ -123,5 +123,6 @@ This project is licensed under the [MIT License](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.7%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-red?logo=streamlit)](https://streamlit.io/)
 [![GitHub Repo stars](https://img.shields.io/github/stars/ganesh76/Insta-Followers-Tracker?style=social)](https://github.com/ganesh76/Insta-Followers-Tracker/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ganesh76/Insta-Followers-Tracker/blob/main/LICENSE)
 
 ---
